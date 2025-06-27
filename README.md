@@ -1,7 +1,10 @@
 <!-- 이름을 크고 스타일 있게 -->
-<h1 align="center">
-  Hi, I'm <span style="font-size: 3em; font-weight: bold; background: linear-gradient(90deg, #FFD700, #FFA500); -webkit-background-clip: text; color: transparent;">Jeong Hyo Jin 👋</span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFA500&height=200&section=header&text=Welcome%20to%20Jeong%20Hyo%20Jin's%20Github!%20👋&fontSize=35&fontColor=000000&fontAlign=50&fontAlignY=35" />
+</p>
+
+
+
 
 <!-- 타이핑 애니메이션으로 소개 문구 반복 -->
 <p align="center">
